@@ -1,4 +1,4 @@
-# Stari Playstore
+# Atari Playstore
 
 Projeto didático desenvolvido na prática da utilização do Framework Angular com tutoria [Felipe Silva](https://github.com/felipeAguiarCode) durante o bootCamp Santander DIO FullStack. 
 
