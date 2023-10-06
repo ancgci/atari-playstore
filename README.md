@@ -31,7 +31,7 @@ Você também pode usar este comando para gerar diretivas, pipes, serviços, cla
 
 ## Imagem
 
-![1](https://github.com/ancgci/atari-playstore/blob/main/imagens/1.png)
+![1](https://github.com/ancgci/atari-playstore/blob/main/imagem/1.png)
 
 ## License
 
