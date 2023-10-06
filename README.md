@@ -29,6 +29,10 @@ Para gerar um novo componente, utilize o seguinte comando:
 
 Você também pode usar este comando para gerar diretivas, pipes, serviços, classes, guards, interfaces, enumerações e módulos.
 
+## Imagem
+
+![1](https://github.com/ancgci/atari-playstore/blob/main/imagens/1.png)
+
 ## License
 
 Este projeto é distribuído sob a licença MIT.
