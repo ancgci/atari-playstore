@@ -1,27 +1,34 @@
-# Loja
+# Stari Playstore
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+Projeto didático desenvolvido na prática da utilização do Framework Angular com tutoria [Felipe Silva](https://github.com/felipeAguiarCode) durante o bootCamp Santander DIO FullStack. 
 
-## Development server
+Esse projeto fora desenvolvido com [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2. 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Introdução
 
-## Code scaffolding
+Esta é a documentação para o projeto. Aqui estão as instruções para configurar, construir e executar o projeto.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Abrindo a página Inicial
 
-## Build
+Para iniciar o servidor de desenvolvimento, execute o seguinte comando:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- ng serve 
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Em seguida, acesse a aplicação no navegador usando o seguinte URL:
 
-## Running end-to-end tests
+http://localhost:4200/
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+A aplicação será automaticamente recarregada se você fizer qualquer alteração nos arquivos de origem.
 
-## Further help
+## Geração de Código
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Para gerar um novo componente, utilize o seguinte comando:
+
+ - ng generate component nome-do-componente
+
+Você também pode usar este comando para gerar diretivas, pipes, serviços, classes, guards, interfaces, enumerações e módulos.
+
+## License
+
+Este projeto é distribuído sob a licença MIT.
